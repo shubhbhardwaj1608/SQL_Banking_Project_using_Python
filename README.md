@@ -58,5 +58,5 @@ If you have any questions or suggestions regarding this project, feel free to re
 
 - Name: Shubh Bhardwaj
 - GitHub: [shubhbhardwaj1608](https://github.com/shubhbhardwaj1608)
-- Email: [shubh@example.com](mailto:shubh@example.com)
+- Email: [shubhbhardwaj1608@gmail.com](mailto:shubh@example.com)
 
